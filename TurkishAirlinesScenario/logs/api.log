@@ -1,0 +1,7 @@
+15-06-2021 12:08:38.143 [Gauge] [INFO] Watching directory: C:\Users\testinium\IdeaProjects\TurkishAirlinesScenario\specs
+15-06-2021 12:08:38.144 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-06-2021 12:08:38.145 [Gauge] [DEBUG] Found 1 files
+15-06-2021 12:08:38.147 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-06-2021 12:08:38.147 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\TurkishAirlinesScenario\specs\example.spec
+15-06-2021 12:08:38.147 [Gauge] [INFO] Initializing steps cache with 1 steps
+15-06-2021 12:08:38.147 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55545
